@@ -91,11 +91,11 @@ El sistema de agentes sigue una arquitectura modular que incluye:
 
 ---
 
-👨‍💻 **Autores/Equipo de trabajo**:
+## 👨‍💻 **Autores/Equipo de trabajo**:
 - Eduardo Cárdenas Valadez (A00232432)
 - Jonathan Uziel Medina Rodríguez (A01255048)
 - Sebastián Blanchet Sanchez (A00227588)
 - Araceli Ruiz Sánchez (A01255302)
 - Rubén Alonso Castro Molina (A01255344)
-*
-📅 Proyecto académico / empresarial en curso 
+
+## 📅 Proyecto académico / empresarial en curso
