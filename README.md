@@ -98,4 +98,4 @@ El sistema de agentes sigue una arquitectura modular que incluye:
 - Araceli Ruiz Sánchez (A01255302)
 - Rubén Alonso Castro Molina (A01255344)
 *
-📅 Proyecto académico / empresarial en curso  
+📅 Proyecto académico / empresarial en curso 
