@@ -38,6 +38,15 @@ npm install
 
 ---
 
+
+## ✅ Pruebas
+
+Para correr los tests:
+
+```npm test```
+
+---
+
 ## ▶️ Ejecución
 
 Ejecutar en modo desarrollo con la herramienta **AI Spine**:
@@ -51,13 +60,3 @@ Ejecutar el CLI (`cli.ts`):
 ```bash
 npm run cli
 ```
-
----
-
-## ✅ Tests
-
-Para correr los tests:
-
-
-
----
