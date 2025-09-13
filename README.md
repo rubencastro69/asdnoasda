@@ -38,26 +38,6 @@ npm install
 
 ---
 
-## ⚙️ Configuración
-
-Antes de ejecutar el proyecto, crea un archivo `.env` en la raíz con las siguientes variables de entorno:
-
-```env
-# Puerto en el que corre el servidor
-PORT=3000
-
-# API Key de AI Spine
-AI_SPINE_API_KEY=tu_api_key_aqui
-
-# Endpoint de servicio de reservas
-RESERVATION_API_URL=https://api.reservas.com
-
-# Token de autenticación para el servicio de reservas
-RESERVATION_API_TOKEN=tu_token_aqui
-```
-
----
-
 ## ▶️ Ejecución
 
 Ejecutar en modo desarrollo con la herramienta **AI Spine**:
@@ -78,18 +58,6 @@ npm run cli
 
 Para correr los tests:
 
-```bash
-npm test
-```
+
 
 ---
-
-## 📌 Notas
-- Requiere **Node.js v16 o superior**.  
-- Asegúrate de configurar correctamente las variables de entorno en el archivo `.env`.  
-- El proyecto está pensado para integrarse fácilmente con servicios externos de reservas.  
-
----
-
-👨‍💻 Desarrollado con ❤️ para automatizar la experiencia de reservas en restaurantes.
-
