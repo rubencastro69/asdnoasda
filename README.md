@@ -21,42 +21,15 @@ K.R.I.S. (**K**nowledgeable **R**estaurant **I**ntelligent **S**ystem) es un age
 
 ---
 
-## 📦 Instalación
 
-Clona el repositorio y entra a la carpeta del proyecto:
+## Ejemplo de ejecución:
 
-```bash
-git clone <repo_url>
-cd <nombre_proyecto>
-```
+- Herramienta de AI Spine (./src/index.ts): Ingresar en la terminal ```npm run dev``` o ```npm start```.
 
-Instala las dependencias:
+- Ejecución de CLI (./src/cli.ts): Ingresar en la terminal ```npx ts-node ./src/cli.ts```.
 
-```bash
-npm install
-```
+##Correr tests:
 
----
+Ingresar en la terminal ```npm test```.
 
-
-## ✅ Pruebas
-
-Para correr los tests:
-
-```npm test```
-
----
-
-## ▶️ Ejecución
-
-Ejecutar en modo desarrollo con la herramienta **AI Spine**:
-
-```bash
-npm run dev
-```
-
-Ejecutar el CLI (`cli.ts`):
-
-```bash
-npm run cli
-```
+Se utiliza Jest para correr los casos de prueba (revisar ./tests/tool.test.ts).
