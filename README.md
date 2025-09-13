@@ -22,13 +22,13 @@ K.R.I.S. (**K**nowledgeable **R**estaurant **I**ntelligent **S**ystem) es un age
 ---
 
 
-## Ejemplo de ejecución:
+## ⚙️ Ejemplo de ejecución:
 
 - Herramienta de AI Spine (./src/index.ts): Ingresar en la terminal ```npm run dev``` o ```npm start```.
 
 - Ejecución de CLI (./src/cli.ts): Ingresar en la terminal ```npx ts-node ./src/cli.ts```.
 
-## Correr tests:
+## ✅ Correr tests:
 
 Ingresar en la terminal ```npm test```.
 
